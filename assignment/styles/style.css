@@ -1,1 +1,10 @@
 /* give your assignment a fun background color */
+body {
+    height: auto;
+    background-image: radial-gradient(circle, DarkSlateBlue 10%, limegreen, DarkOrange 55%, DarkOrchid);
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+
